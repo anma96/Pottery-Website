@@ -1,2 +1,1 @@
-# Crime-is-Fun
-;)
+Pottery Website written in Angular
